@@ -21,4 +21,5 @@ It simulates a traffic light system using red, yellow, and green LEDs, and plays
 - Passive buzzer (x1)
 - Jumper wires
 - Breadboard
+
 Learn python with enjoyable projects!!!
