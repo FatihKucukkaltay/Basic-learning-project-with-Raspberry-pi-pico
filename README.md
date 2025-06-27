@@ -27,12 +27,12 @@ Full code here :
 from machine import Pin, PWM
 from time import sleep
 
-# LED Pins
+ LED Pins
 red = Pin(15, Pin.OUT)
 yellow = Pin(14, Pin.OUT)
 green = Pin(13, Pin.OUT)
 
-# Buzzer PWM singnal
+ Buzzer PWM singnal
 buzzer = PWM(Pin(12))
 
 def beep(duration=0.3, frequency=1000):
